@@ -6,7 +6,7 @@
 <br><br>
 ### 🚀 Sobre Mim
 
-Sou um desenvolvedor front-end apaixonado por programação e tecnologia, com um foco especial em criar interfaces de usuário atraentes e funcionais. Atualmente, estou aprimorando minhas habilidades no Dev Club: Full Stack Pro, onde também estou expandindo meus conhecimentos para o Back-End.
+Sou uma desenvolvedora front-end apaixonado por programação e tecnologia, com um foco especial em criar interfaces de usuário atraentes e funcionais. Atualmente, estou aprimorando minhas habilidades no Dev Club: Full Stack Pro, onde também estou expandindo meus conhecimentos para o Back-End.
 
 💡 O que me motiva?
 Com grande paixão por tecnologia, busco continuamente ideias criativas e oportunidades de aprendizado. Acredito que a aprendizagem contínua é fundamental para o crescimento profissional. Meu foco é desenvolver soluções web práticas, de fácil compreensão e que gerem resultados, auxiliando outras pessoas a trilhar o caminho do sucesso no desenvolvimento.
